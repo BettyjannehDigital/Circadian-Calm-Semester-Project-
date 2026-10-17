@@ -1,3 +1,5 @@
+[← Back to portfolio](https://github.com/BettyjannehDigital)
+
 # Circadian Calm – Semester Project
 
 **Semester Project | Noroff Digital Marketing | March 2026**  
@@ -18,14 +20,14 @@ The site was built on WordPress and hosted at: [oneohonejewelry.com/circadian-ca
 ## What's Inside
 
 | File | Description |
-|---|---|
-| `Circadian_Calm_Improved_Report.docx` | Revised semester report (submitted after instructor feedback) |
-| `Circadian_Calm_Written_Report_1st_Attempt.pdf` | Original submission |
-| `Circadian_Calm_Instructor_Feedback.pdf` | Noroff instructor feedback with grade breakdown |
-| `Circadian_Calm_Reflection.pdf` | Personal reflection on process, challenges, and learning |
-| `Circadian_Calm_Reference_List.pdf` | Academic references used (Harvard format) |
-| `SEO_Accessibility_Audit.pdf` | WAVE accessibility audit + RankMath SEO testing (before & after) |
-| `Project_Reflection_WordPress_SEO.pdf` | Reflection on WordPress build and SEO learning process |
+| --- | --- |
+| [Circadian Calm Improved Report PDF.pdf](https://github.com/BettyjannehDigital/Circadian-Calm-Semester-Project-/blob/main/Circadian%20Calm%20Improved%20Report%20PDF.pdf) | Revised semester report (submitted after instructor feedback) |
+| [Circadian Calm Written Report -Semester Project, 1st Attempt .pdf](https://github.com/BettyjannehDigital/Circadian-Calm-Semester-Project-/blob/main/Circadian%20Calm%20Written%20Report%20-Semester%20Project%2C%201st%20Attempt%20.pdf) | Original submission |
+| [Circadian Calm – Semester Project (Instructor Feedback).pdf](https://github.com/BettyjannehDigital/Circadian-Calm-Semester-Project-/blob/main/Circadian%20Calm%20%E2%80%93%20Semester%20Project%20%28Instructor%20Feedback%29.pdf) | Noroff instructor feedback with grade breakdown |
+| [Circadian Calm Reflection - Semester Project.pdf](https://github.com/BettyjannehDigital/Circadian-Calm-Semester-Project-/blob/main/Circadian%20Calm%20Reflection%20-%20Semester%20Project.pdf) | Personal reflection on process, challenges, and learning |
+| [Circadian Calm Reference List.pdf](https://github.com/BettyjannehDigital/Circadian-Calm-Semester-Project-/blob/main/Circadian%20Calm%20Reference%20List.pdf) | Academic references used (Harvard format) |
+| [Technical Website; SEO Audit, Accessibility Improvements PDF.pdf](https://github.com/BettyjannehDigital/Circadian-Calm-Semester-Project-/blob/main/Technical%20Website%3B%20SEO%20Audit%2C%20Accessibility%20Improvements%20PDF.pdf) | WAVE accessibility audit + RankMath SEO testing (before & after) |
+| [Project Reflection On Wordpress & SEO Learning.pdf](https://github.com/BettyjannehDigital/Circadian-Calm-Semester-Project-/blob/main/Project%20Reflection%20On%20Wordpress%20%26%20SEO%20Learning.pdf) | Reflection on WordPress build and SEO learning process |
 
 ---
 
@@ -53,7 +55,7 @@ The site was built on WordPress and hosted at: [oneohonejewelry.com/circadian-ca
 ## SEO Results
 
 | Metric | Before | After |
-|---|---|---|
+| --- | --- | --- |
 | RankMath SEO Score | 22/100 | 88/100 |
 | One.com SEO Score | 42 | 58 |
 | One.com Accessibility | 85 | 95 |
@@ -73,4 +75,3 @@ The site was built on WordPress and hosted at: [oneohonejewelry.com/circadian-ca
 ## Tools Used
 
 `WordPress` `RankMath` `WAVE (WebAIM)` `One.com Performance Monitor` `Canva`
-
